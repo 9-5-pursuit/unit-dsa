@@ -1,6 +1,6 @@
 # Problem-Solving Methodology
 
-[Note, this is a review of problem-solving-methodologies](https://github.com/joinpursuit/8-0-technical-curriculum/blob/main/01-fundamentals/problem-solving-methodologies/lesson-notes/readme.md)
+[Note, this is a review of problem-solving-methodologies](https://github.com/9-5-pursuit/unit-fundamentals/blob/main/problem-solving-methodologies/readme.md)
 
 ## Learning Objectives
 
