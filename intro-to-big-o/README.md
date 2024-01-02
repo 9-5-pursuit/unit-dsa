@@ -85,9 +85,9 @@ const getMiddleItem = (arr) => {
 const printEvenNums = (limit) => {
  const evens = [];
  for (let i = 0; i <= limit; i++) {
- if (i % 2 === 0)) {
- evens.push(i);
- }
+   if (i % 2 === 0) {
+     evens.push(i);
+   }
  }
  return evens;
 };
